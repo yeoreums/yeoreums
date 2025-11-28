@@ -50,6 +50,7 @@ I maintain a **Today I Learned (TIL)** repository to document my daily technical
 1.  **Communication:** I translate technical workflows into clear language for business stakeholders (leveraging my Econ background).
 2.  **Reliability:** I prioritize reproducible code—if it works on my machine, I ensure it works in production.
 3.  **Collaboration:** I use PR templates, issue tracking, and Git Flow to maintain clean, team-ready codebases.
+4.  **Ownership:** Experienced in managing projects within **GitHub Organizations** (granting access, structuring team repos, defining commit rules).
 
 ---
 
