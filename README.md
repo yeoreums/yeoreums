@@ -1,4 +1,4 @@
-# Hi, I’m Yeoreum Song 👋
+# Hi, I’m Yeoreum Song 👋 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yeoreumsong)
 **Junior Data Engineer | Data Pipeline Automation | Cloud Data Warehousing**
 
 I build **reliable, reproducible data pipelines** and document the full data engineering lifecycle:
