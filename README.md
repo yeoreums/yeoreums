@@ -29,8 +29,8 @@ I build **reliable, reproducible data pipelines** and document the full data eng
 
 | Project | Key Features | Tech Stack | Link |
 |:---|:---|:---|:---|
-| **Economic Data Pipeline** | • Automated NASDAQ/S&P 500 ingestion<br>• Optimized alerting logic (volatility notifications)<br>• dbt transformation layers | `Python` `Airflow` `Snowflake` `dbt` | [Repo Folder](./portfolio/01_economic-data-pipeline) |
-| **KMA Data Viz** | • Real-time weather/air quality ETL<br>• S3 Data Lake integration<br>• Interactive Preset dashboard | `Python` `AWS S3` `Snowflake` `Preset` | [Repo Folder](./portfolio/02_kma-data-viz) |
+| **Economic Data Pipeline** | • Automated NASDAQ/S&P 500 ingestion<br>• Optimized alerting logic (volatility notifications)<br>• dbt transformation layers | `Python` `Airflow` `Snowflake` `dbt` | [Repo Folder]([./portfolio/01_economic-data-pipeline](https://github.com/DE7-Team8-8bit/economy-etl)) |
+| **KMA Data Viz** | • Real-time weather/air quality ETL<br>• S3 Data Lake integration<br>• Interactive Preset dashboard | `Python` `AWS S3` `Snowflake` `Preset` | [Repo Folder]([./portfolio/02_kma-data-viz](https://github.com/DE7-2nd/KMA-Data-Viz)) |
 | **Airflow + Snowflake DAGs** | • Local reproducible environment<br>• Modular DAG orchestration patterns | `Docker` `Airflow` `SQL` | [Repo Folder](./portfolio/03_airflow-snowflake-dag) |
 
 ---
