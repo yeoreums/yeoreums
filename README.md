@@ -20,7 +20,7 @@ I build **reliable, reproducible data pipelines** and document the full data eng
 
 - **End-to-End Pipelines:** Python, SQL, Airflow, dbt, Snowflake, AWS
 - **Data Modeling:** Warehouse schema design (Star Schema), ELT/ETL automation
-- **DevOps:** Docker, Git/GitHub (PRs, branching), CI/CD basics
+- **DevOps:** Docker, Git (Branching/Flow), CI/CD concepts
 - **Visualization:** Preset dashboards, data quality validation
 
 ---
@@ -29,25 +29,26 @@ I build **reliable, reproducible data pipelines** and document the full data eng
 
 | Project | Key Features | Tech Stack | Link |
 |:---|:---|:---|:---|
-| **Economic Data Pipeline** | • Automated NASDAQ/S&P 500 ingestion<br>• Optimized alerting logic (volatility notifications)<br>• dbt transformation layers | `Python` `Airflow` `Snowflake` `dbt` | [Repo Folder]((https://github.com/DE7-Team8-8bit/economy-etl)) |
-| **KMA Data Viz** | • Real-time weather/air quality ETL<br>• S3 Data Lake integration<br>• Interactive Preset dashboard | `Python` `AWS S3` `Snowflake` `Preset` | [Repo Folder]((https://github.com/DE7-2nd/KMA-Data-Viz)) |
-| **Airflow + Snowflake DAGs** | • Local reproducible environment<br>• Modular DAG orchestration patterns | `Docker` `Airflow` `SQL` | [Repo Folder](./portfolio/03_airflow-snowflake-dag) |
+| **Economic Data Pipeline** | • **Team Scope:** Ingested NASDAQ/S&P 500/Crypto data via Airflow to Snowflake<br>• **My Enhancement:** Implemented local **dbt** layer for transformations & **Slack** alerts for data volatility | `Airflow` `Snowflake` `Python` `dbt (Local)` | [View Repository](https://github.com/DE7-Team8-8bit/economy-etl) |
+| **KMA Data Viz** | • **Historical Analytics:** Weather/Air quality data batch processing<br>• **Data Lake:** S3 raw data staging → Snowflake Warehouse<br>• **Viz:** Interactive Preset dashboard | `Python` `AWS S3` `Snowflake` `Preset` | [View Repository](https://github.com/DE7-2nd/KMA-Data-Viz) |
 
 ---
 
-## 🧪 Skills Lab
-*Short, hands-on exercises demonstrating core engineering fundamentals.*
+## 📚 Continuous Learning (TIL)
+I maintain a **Today I Learned (TIL)** repository to document my daily technical growth and code snippets.
 
-- 📂 **`skills-lab/sql_basics/`** → Complex queries: Window functions, CTEs, optimized JOINs
-- 📂 **`skills-lab/airflow_examples/`** → Custom operators, sensors, and scheduling logic
-- 📂 **`skills-lab/docker_practice/`** → Containerization of Python scripts & multi-container setups
-- 📂 **`skills-lab/python_etl_test/`** → Unit testing pipelines & data validation scripts
+> **[📂 Visit my TIL Repository](https://github.com/yeoreums/TIL)**
+
+*Examples of what I document:*
+- **SQL & Optimization:** Query tuning, Window functions, CTEs
+- **Orchestration:** Airflow DAG patterns and scheduling logic
+- **Infrastructure:** Docker containerization and AWS setup
 
 ---
 
 ## 💡 Why Me?
 1.  **Communication:** I translate technical workflows into clear language for business stakeholders (leveraging my Econ background).
-2.  **Reliability:** I prioritize reproducible code—if it works on my machine, I ensure it works in production via Docker.
+2.  **Reliability:** I prioritize reproducible code—if it works on my machine, I ensure it works in production.
 3.  **Collaboration:** I use PR templates, issue tracking, and Git Flow to maintain clean, team-ready codebases.
 
 ---
